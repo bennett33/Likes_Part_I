@@ -1,0 +1,27 @@
+.container {
+    height: 100%;
+    width: 300px;
+    border: solid black 2px;
+    margin: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.line-1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button {
+    background-color: rgb(255, 231, 13);
+    border: solid black 2px;
+}
+
+#user {
+    font-size: 23px;
+}
+
+#likes {
+    font-size: 18px;
+}
